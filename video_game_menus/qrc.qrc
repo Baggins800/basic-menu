@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/button/shaders">
+        <file>buttons.fsh</file>
+        <file>buttons.vsh</file>
+    </qresource>
+</RCC>
